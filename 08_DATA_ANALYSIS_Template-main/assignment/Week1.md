@@ -42,6 +42,7 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 1) **데이터 분석**은 데이터를 수집, 처리, 정제, 분석, 모델링하여 의사 결정을 내리는 데 도움을 주는 작업을 말한다. 통계학과 머신러닝의 기술을 사용하고, 비즈니스 문제를 해결하기 위해 도메인 지식이 필요하다.
 2) 데이터 분석을 통계적 관점에서 3가지 개념으로 나눌 수 있다.
+
 (1) **기술통계(Descriptive Statistics)** : 관측이나 실험을 통해 수집한 데이터를 정량화하거나 요약하는 기법을 말한다. ex) 평균, 최솟값, 최댓값
 (2) **탐색적 데이터 분석(EDA, Exploratory Data Analysis)** : 데이터를 시각적으로 표현하여 주요 특징을 찾고 분석하는 방법
 (3) **가설검정(Hypothesis Testing)** : 주어진 데이터를 기반으로 특정 가설이 합당한지 평가하는 과정
