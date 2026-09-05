@@ -88,8 +88,12 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 1. 도서관 정보나루 → 남산도서관 2026년 8월 장서 대출목록 다운로드
 <img width="1030" height="638" alt="image" src="https://github.com/user-attachments/assets/347ec3d9-5ccb-4130-9f82-2afc2e29fc57" />
 
+
+
 2. 장서 대출목록 csv를 메모장으로 열어본 모습
 <img width="1262" height="368" alt="image" src="https://github.com/user-attachments/assets/fdc26dde-4418-4357-9a06-5635e41aa226" />
+
+
 
 3. 
 
