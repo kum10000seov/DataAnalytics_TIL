@@ -95,7 +95,18 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 
 
-3. 
+3. 교과서에 나온 모든 코드를 입력하여 실행한 결과
+<img width="1264" height="689" alt="image" src="https://github.com/user-attachments/assets/e52b005f-5288-4334-a96f-5e7dbf30c067" />
+
+
+<img width="1267" height="695" alt="image" src="https://github.com/user-attachments/assets/a0a73d75-bfb2-4fb5-973d-fc7056d805e2" />
+
+
+<img width="1262" height="694" alt="image" src="https://github.com/user-attachments/assets/7d2e914f-b487-40a4-ad17-d5a91e563845" />
+
+
+<img width="1264" height="693" alt="image" src="https://github.com/user-attachments/assets/62205b8a-21f8-4dd7-b942-fea0a2c90408" />
+
 
 
 <br>
