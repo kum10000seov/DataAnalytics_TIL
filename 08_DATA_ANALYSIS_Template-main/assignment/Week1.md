@@ -102,6 +102,8 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 
 3. 교과서에 나온 모든 코드를 입력하여 실행한 결과
+(구글 코랩의 코드는 2021년 6월 데이터로 실행)
+
 <img width="1264" height="689" alt="image" src="https://github.com/user-attachments/assets/e52b005f-5288-4334-a96f-5e7dbf30c067" />
 
 
