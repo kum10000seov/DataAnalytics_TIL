@@ -69,6 +69,10 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 5) 마크다운(Markdown)은 HTML과 같이 일반 텍스트로 서식있는 문서를 작성하는 데 활용한다.
 - HTML : Hypertext Markup Language, 웹 페이지를 표시하는 데 사용하는 마크업(markup) 언어
 - 마크다운 : HTML과 같은 마크업(markup) 언어의 하나로 서식있는 문서를 작성하는 데 사용
+
+※ HTML과 마크다운의 차이
+HTML(Hypertext Markup Language)은 웹페이지의 멀티미디어, 스타일, 자바스크립트, 복잡한 레이아웃 등 웹의 모든 기능을 정의하고 구현할 수 있다. 즉, HTML은 웹사이트의 뼈대를 잡는 역할을 한다. 반면, 마크다운(Markdown)은 HTML과는 독립적으로 최소한의 기호(#, * 등)만을 활용해 일반 텍스트 중심의 서식(제목, 굵기, 링크, 목록 등)만 지원하며 내부적으로는 HTML로 변환되어 화면에 렌더링된다.
+
 <img width="568" height="468" alt="image" src="https://github.com/user-attachments/assets/8d750afa-4b74-4bcb-bb89-1e19bd4d7934" />
 
 <img width="551" height="194" alt="image" src="https://github.com/user-attachments/assets/90cc1e57-f177-4d97-aff8-9af2c0486832" />
