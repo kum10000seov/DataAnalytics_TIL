@@ -86,6 +86,30 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 <img width="1265" height="693" alt="image" src="https://github.com/user-attachments/assets/02a73d59-2020-4c3a-ba0f-ac16813c5d53" />
 
 
+<img width="1261" height="725" alt="image" src="https://github.com/user-attachments/assets/7944b238-ba0a-4540-9185-1b3355454124" />
+
+
+<img width="1255" height="637" alt="image" src="https://github.com/user-attachments/assets/cb9fc584-07e9-4f4e-8330-d3c46be4503c" />
+
+
+<img width="1264" height="695" alt="image" src="https://github.com/user-attachments/assets/72e86447-83b4-4776-be84-6a9b72a250fc" />
+
+
+<img width="1272" height="695" alt="image" src="https://github.com/user-attachments/assets/906e1148-e468-4863-a6d6-bcecb5052609" />
+
+
+<img width="1268" height="695" alt="image" src="https://github.com/user-attachments/assets/9f6b7b57-9b1d-4409-a99f-e0119c863e5b" />\
+
+
+<img width="1265" height="696" alt="image" src="https://github.com/user-attachments/assets/21b69c31-e03b-4506-b599-90d1ab0f959e" />
+
+
+<img width="1265" height="695" alt="image" src="https://github.com/user-attachments/assets/871beb40-3bc0-42ef-a2c6-118af58c4b79" />
+
+
+<img width="1264" height="700" alt="image" src="https://github.com/user-attachments/assets/8785a177-2d45-437a-8e0f-608335232c04" />
+
+
 
 
 
