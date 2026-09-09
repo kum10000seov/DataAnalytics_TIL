@@ -52,8 +52,7 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 <img width="277" height="107" alt="image" src="https://github.com/user-attachments/assets/e2a4d214-04da-4b28-9b0c-bbbae23b1b3e" />
 
 * 태그 : 시작태그 <name>, 종료태그 </name>
-* 부모 엘리먼트(부모 노드) : <book>
-* 자식 엘리먼트(자식 노드) : <name>, <author>, <year> 등은 <book> 엘리먼트의 자식 엘리먼트
+* 부모 엘리먼트(부모 노드), 자식 엘리먼트
 
 6. 주요 활용 함수
 <img width="407" height="202" alt="image" src="https://github.com/user-attachments/assets/1be158c0-7a34-4c93-9979-5842dc43a332" />
