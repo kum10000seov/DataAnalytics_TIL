@@ -38,7 +38,15 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 ## 01. API 사용하기
 
-<!-- 새롭게 배운 내용을 자유롭게 정리해주세요.-->
+1. **API**(Application Programming Interface)는 프로그램 간 데이터를 전달하기 위해 정한 규칙이다. 수동으로 데이터를 받는 방법은 매주, 매일 반복되는 작업에선 부적절한데, 이런 경우 공개 API를 사용하면 데이터 수집 과정을 자동화할 수 있다.
+2. **HTTP**(Hyper Text Transfer Protocol)는 웹에서 데이터를 주고받기 위한 통신 규약(Protocol)이다. 이를테면 웹 페이지, 이미지 등을 받아 웹 브라우저에 나타내는 데 HTTP를 활용한다. 그래서 웹 브라우저로 접속하는 URL 주소는 모두 http 혹은 https(보안이 강화됨)으로 시작한다. 핵심은 HTTP를 활용해 API를 만드는 것이 웹 기반 API라는 것이다.
+<img width="254" height="68" alt="image" src="https://github.com/user-attachments/assets/80fcfa11-ad25-46de-b3d9-c90c5fd41f0c" />
+
+<img width="251" height="65" alt="image" src="https://github.com/user-attachments/assets/68452d80-7956-4025-8f3d-f3320411bdaf" />
+
+3. 웹 기반 API에서 HTML 대신 CSV, JSON, XML(이들 모두 웹 기반 API가 데이터를 전달하는 형태이다)을 선호하는 것은 HTML 소스의 구조가 복잡하기 깨문이다. 단, CSV는 코드가 복잡하여 읽기 힘들다. 코드가 복잡해질수록 오류 발생 확률이 높아지고, 오류를 찾기 위해 데이터를 확인할 때도 이해하기 어려워진다.
+3. **JSON**(Javascript Object Notation)은 근래에 범용적으로 많이 사용되는 데이터 전달 포맷이다. 자바스크립트는 물론 웹 기반 API에서도 대중화되어 있다. JSON의 장점은 HTML이나 XML보나 사람이 읽기 편하고 간단하게 파이썬 객체로 변환할 수 있다는 점이다.
+4. **XML**(eXtensible Markup Language)은 JSON보다 다소 장황하지만 사람이 이해하기 쉬운 구조적인 포맷을 제공한다. 파이썬에서는 기본으로 제공되는 xml 패키기를 사용하여 XML 문서에 있는 element를 탐색할 수 있고, Pandas의 경우 read_xml() 함수를 사용하여 데이터프레임으로 바꿀 수 있다.
 
 ## 02.웹 스크래핑 사용하기
 
