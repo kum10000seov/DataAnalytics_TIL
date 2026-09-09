@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 4. **JSON**(Javascript Object Notation)은 근래에 범용적으로 많이 사용되는 데이터 전달 포맷이다. 자바스크립트는 물론 웹 기반 API에서도 대중화되어 있다. JSON의 장점은 HTML이나 XML보나 사람이 읽기 편하고 간단하게 파이썬 객체로 변환할 수 있다는 점이다.
 <img width="384" height="87" alt="image" src="https://github.com/user-attachments/assets/8f744ad9-2db9-4dfa-84c0-8d491615f1ec" />
 
-5. **XML**(eXtensible Markup Language)은 JSON보다 다소 장황하지만 사람이 이해하기 쉬운 구조적인 포맷을 제공한다. 파이썬에서는 기본으로 제공되는 xml 패키기를 사용하여 XML 문서에 있는 element를 탐색할 수 있고, Pandas의 경우 read_xml() 함수를 사용하여 데이터프레임으로 바꿀 수 있다.
+5. **XML**(eXtensible Markup Language)은 JSON보다 다소 장황하지만 사람이 이해하기 쉬운 구조적인 포맷을 제공한다. 파이썬에서는 기본으로 제공되는 xml 패키지를 사용하여 XML 문서에 있는 element를 탐색할 수 있고, Pandas의 경우 read_xml() 함수를 사용하여 데이터프레임으로 바꿀 수 있다.
 
 6. 주요 활용 함수
 <img width="407" height="202" alt="image" src="https://github.com/user-attachments/assets/1be158c0-7a34-4c93-9979-5842dc43a332" />
@@ -56,7 +56,11 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 ## 02.웹 스크래핑 사용하기
 
-<!-- 새롭게 배운 내용을 자유롭게 정리해주세요.-->
+1. **웹 스크래핑**은 웹 사이트에서 필요한 데이터를 추출하는 기술이다. HTML은 구조적이지 않기 때문에 스크래핑으로 데이터를 수집하기에 번거롭다. 따라서, 웹 스크래핑을 사용하기 전에 먼저 공개 API를 통해 사용할 수 있는지 확인해보도록 한다.
+2. **뷰티풀수프**(BeautifulSoup)는 HTML 문서를 파싱하는데 사용하는 쉽고 빠른 파이썬 패키지이다. 뷰티풀수프는 requests 패키지로 가져온 HTML에서 원하는 태그나 텍스트를 찾는 기능을 제공한다.
+  
+3. 주요 활용 함수
+<img width="413" height="195" alt="image" src="https://github.com/user-attachments/assets/8375de80-c5b2-4e72-a06d-6862740792f9" />
 
 
 # 2️⃣ 수행 인증
