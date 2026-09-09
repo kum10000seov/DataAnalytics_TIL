@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 <img width="251" height="65" alt="image" src="https://github.com/user-attachments/assets/68452d80-7956-4025-8f3d-f3320411bdaf" />
 
-3. 웹 기반 API에서 HTML 대신 CSV, JSON, XML(이들 모두 웹 기반 API가 데이터를 전달하는 형태이다)을 선호하는 것은 HTML 소스의 구조가 복잡하기 깨문이다. 단, CSV는 코드가 복잡하여 읽기 힘들다. 코드가 복잡해질수록 오류 발생 확률이 높아지고, 오류를 찾기 위해 데이터를 확인할 때도 이해하기 어려워진다.
+3. 웹 기반 API에서 HTML 대신 CSV, JSON, XML(이들 모두 웹 기반 API가 데이터를 전달하는 형태이다)을 선호하는 것은 HTML 소스의 구조가 복잡하기 때문이다. 단, CSV는 코드가 복잡하여 읽기 힘들다. 코드가 복잡해질수록 오류 발생 확률이 높아지고, 오류를 찾기 위해 데이터를 확인할 때도 이해하기 어려워진다.
 3. **JSON**(Javascript Object Notation)은 근래에 범용적으로 많이 사용되는 데이터 전달 포맷이다. 자바스크립트는 물론 웹 기반 API에서도 대중화되어 있다. JSON의 장점은 HTML이나 XML보나 사람이 읽기 편하고 간단하게 파이썬 객체로 변환할 수 있다는 점이다.
 4. **XML**(eXtensible Markup Language)은 JSON보다 다소 장황하지만 사람이 이해하기 쉬운 구조적인 포맷을 제공한다. 파이썬에서는 기본으로 제공되는 xml 패키기를 사용하여 XML 문서에 있는 element를 탐색할 수 있고, Pandas의 경우 read_xml() 함수를 사용하여 데이터프레임으로 바꿀 수 있다.
 
