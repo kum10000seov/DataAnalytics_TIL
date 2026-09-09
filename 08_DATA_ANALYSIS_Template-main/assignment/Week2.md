@@ -71,6 +71,23 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 * ensure_ascii 매개변수 : 딕셔너리 d에 한글이 포함될 경우 ensure_ascii 매개변수를 False로 지정하여 원래 저장된 문자 그대로 출력하도록 해야 한다.
 
+<img width="1268" height="668" alt="image" src="https://github.com/user-attachments/assets/e12552bf-2e70-4f20-818c-097a1588d63e" />
+
+
+<img width="1267" height="693" alt="image" src="https://github.com/user-attachments/assets/3982ce8e-3369-494f-a10b-56a68a928b88" />
+
+
+<img width="1268" height="697" alt="image" src="https://github.com/user-attachments/assets/3df498a1-eea9-4031-8aef-9bf6d4fad1a1" />
+
+
+<img width="1264" height="696" alt="image" src="https://github.com/user-attachments/assets/10b7046a-c9d0-4653-b597-5ac16fc99fca" />
+
+
+<img width="1265" height="693" alt="image" src="https://github.com/user-attachments/assets/02a73d59-2020-4c3a-ba0f-ac16813c5d53" />
+
+
+
+
 
 
 <br>
@@ -84,13 +101,17 @@ https://www.youtube.com/watch?v=Il6L8OtNFpc&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 ```
 1️⃣ NumPy  
-2️⃣ Scrapy  
+2️⃣ Scrapy  v
 3️⃣ Matplotlib  
 4️⃣ Scikit-learn  
 ```
 
 ```
-여기에 선택한 답과 그 이유를 간단히 서술해주세요!
+2번 Scrapy는 대규모 웹 크롤링(스크래핑)을 위해 설계딘 파이썬의 패키지로, 웹 페이지 요청부터 데이터 추출 및 저장까지 자동화하는 데 최적화되어있다.
+Numpy는 고성능 수치 계산 및 다차원 배열 처리 라이브러리이다.
+Matplotlib은 데이터를 시각화하거나 그래프를 생성해내는 라이브러리이다.
+Scikit-learn은 머신러닝 알고리즘을 짜거나 데이터를 분석해내는 라이브러리이다.
+
 ```
 
 
